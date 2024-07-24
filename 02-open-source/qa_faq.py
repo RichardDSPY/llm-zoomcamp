@@ -11,6 +11,7 @@ client = OpenAI(
 
 es_client = Elasticsearch('http://localhost:9200') 
 
+# No es necesario indexar nuestros documentos ya que lo hemos hecho anteriormente
 
 def elastic_search(query, index_name = "course-questions"):
     search_query = {
