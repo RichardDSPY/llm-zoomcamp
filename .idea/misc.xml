@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (llm-zoomcamp)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (llm-zoomcamp)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10.12 WSL (Ubuntu-22.04): (/home/ubunturrf96/rrf_unix/llm-zoomcamp/venv/bin/python)" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
